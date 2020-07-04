@@ -1,0 +1,32 @@
+[24-Jun-2020 11:02:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home2/homerangocom/public_html/cursoCrud/_inserir_produto.php on line 8
+[26-Jun-2020 10:57:28 America/Sao_Paulo] PHP Notice:  Undefined variable: nomefornecedor in /home2/homerangocom/public_html/cursoCrud/produto.php on line 70
+[26-Jun-2020 10:57:28 America/Sao_Paulo] PHP Notice:  Undefined variable: nomefornecedor in /home2/homerangocom/public_html/cursoCrud/produto.php on line 70
+[26-Jun-2020 10:57:28 America/Sao_Paulo] PHP Notice:  Undefined variable: nomefornecedor in /home2/homerangocom/public_html/cursoCrud/produto.php on line 70
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 40
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 40
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 40
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 40
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 40
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:27:51 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 40
+[26-Jun-2020 11:36:58 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:36:58 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:36:58 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:36:58 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:36:58 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[26-Jun-2020 11:36:58 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/listar_categorias.php on line 39
+[27-Jun-2020 10:51:10 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/aprovar_usuarios.php on line 53
+[27-Jun-2020 10:51:10 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/aprovar_usuarios.php on line 54
+[27-Jun-2020 10:52:24 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/aprovar_usuarios.php on line 52
+[27-Jun-2020 10:52:24 America/Sao_Paulo] PHP Notice:  Undefined variable: id_estoque in /home2/homerangocom/public_html/cursoCrud/aprovar_usuarios.php on line 53
+[27-Jun-2020 13:01:57 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/homerangocom/public_html/cursoCrud/index1.php on line 9
+[27-Jun-2020 19:08:07 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home2/homerangocom/public_html/cursoCrud/menu.php on line 13
+[27-Jun-2020 19:15:54 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home2/homerangocom/public_html/cursoCrud/menu.php on line 13
+[27-Jun-2020 19:20:25 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home2/homerangocom/public_html/cursoCrud/menu.php on line 13
+[27-Jun-2020 19:21:15 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home2/homerangocom/public_html/cursoCrud/menu.php on line 13
+[03-Jul-2020 22:33:41 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home2/homerangocom/public_html/cursoCrud/menu.php on line 16
